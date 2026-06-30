@@ -1,7 +1,0 @@
-Python is a programming language.
-
-RAG stands for Retrieval Augmented Generation.
-
-Vector databases store embeddings.
-
-Ollama helps run local LLMs.
