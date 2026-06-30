@@ -1,0 +1,17 @@
+# Multi-Document RAG using Ollama and ChromaDB
+
+Features:
+- Load multiple PDFs
+- Chunk documents
+- Generate embeddings
+- Store vectors in ChromaDB
+- Semantic search
+- Source tracking
+- Answer generation using Ollama
+
+Tech Stack:
+- Python
+- ChromaDB
+- Sentence Transformers
+- Ollama
+- PyPDF

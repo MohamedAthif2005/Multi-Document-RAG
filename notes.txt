@@ -1,0 +1,44 @@
+**Python**
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. It is widely used in web development, data science, artificial intelligence, automation, and software development. Its extensive ecosystem of libraries and frameworks enables developers to build applications quickly while maintaining clean and maintainable code.
+
+One of Python's greatest strengths is its versatility. Beginners appreciate its easy-to-learn syntax, while professionals use it for complex systems, machine learning models, and large-scale applications. Popular libraries such as NumPy, Pandas, TensorFlow, and Django have made Python one of the most sought-after programming languages in the technology industry.
+
+**FastAPI**
+
+FastAPI is a modern Python web framework designed for building high-performance APIs quickly and efficiently. It leverages Python type hints to provide automatic request validation, API documentation, and improved developer productivity. FastAPI is built on top of Starlette and Pydantic, ensuring both speed and reliability.
+
+One of the key advantages of FastAPI is its ability to handle asynchronous operations with minimal effort. This makes it ideal for applications requiring high concurrency, such as AI services, microservices, and real-time systems. Its automatically generated interactive API documentation simplifies testing and integration for developers.
+
+**RAG (Retrieval-Augmented Generation)**
+
+Retrieval-Augmented Generation (RAG) is an AI architecture that combines information retrieval systems with large language models. Instead of relying solely on the model's internal knowledge, RAG retrieves relevant external information and uses it to generate more accurate and context-aware responses.
+
+This approach is particularly useful for enterprise applications where access to up-to-date or proprietary data is essential. By integrating knowledge bases, documents, and databases into the generation process, RAG systems reduce hallucinations and improve the reliability of AI-generated content.
+
+**Embeddings**
+
+Embeddings are numerical vector representations of text, images, or other forms of data. They capture the semantic meaning of information, allowing machine learning systems to compare and understand relationships between different pieces of content. Similar items are represented by vectors that are closer together in the embedding space.
+
+Embeddings play a crucial role in modern AI applications such as semantic search, recommendation systems, clustering, and RAG pipelines. By converting unstructured data into meaningful vectors, embeddings enable efficient similarity searches and help AI systems understand context beyond simple keyword matching.
+
+**Vector Databases**
+
+Vector databases are specialized databases designed to store, index, and retrieve vector embeddings efficiently. Unlike traditional databases that search based on exact matches, vector databases perform similarity searches to find the most relevant items based on mathematical distance calculations.
+
+These databases are essential components of modern AI applications, particularly RAG systems and semantic search engines. Popular vector databases offer features such as approximate nearest neighbor search, scalability, and real-time retrieval, enabling rapid access to relevant information from massive datasets.
+
+**Transformers**
+
+Transformers are deep learning architectures that revolutionized natural language processing by introducing the self-attention mechanism. Unlike previous sequential models, transformers can process entire sequences simultaneously, improving both efficiency and contextual understanding.
+
+Today, transformers form the foundation of most large language models and generative AI systems. Models such as GPT and BERT are based on transformer architectures. Their ability to understand long-range dependencies and contextual relationships has significantly advanced the capabilities of modern artificial intelligence.
+
+**Ollama**
+
+Ollama is a platform that simplifies running large language models locally on personal computers and servers. It provides an easy-to-use interface for downloading, managing, and deploying open-source AI models without requiring extensive machine learning expertise.
+
+By enabling local model execution, Ollama offers advantages such as enhanced privacy, reduced dependency on cloud services, and lower operational costs. Developers commonly use it for experimentation, offline AI applications, and building custom AI-powered solutions that keep sensitive data within their own infrastructure.
+
+
+Athif's favourite color is brown
